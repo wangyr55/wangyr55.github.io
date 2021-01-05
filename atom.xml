@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyurui.cn</id>
     <title>王誉睿的时光相册</title>
-    <updated>2021-01-05T15:46:33.557Z</updated>
+    <updated>2021-01-05T15:51:01.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangyurui.cn"/>
     <link rel="self" href="https://wangyurui.cn/atom.xml"/>
@@ -17,69 +17,6 @@
         </link>
         <updated>2021-01-05T15:46:09.000Z</updated>
         <content type="html"><![CDATA[<p>读书</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[姑苏观雨]]></title>
-        <id>https://wangyurui.cn/post/gu-su-guan-yu/</id>
-        <link href="https://wangyurui.cn/post/gu-su-guan-yu/">
-        </link>
-        <updated>2021-01-05T15:37:01.000Z</updated>
-        <content type="html"><![CDATA[<p>姑苏观雨</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观云]]></title>
-        <id>https://wangyurui.cn/post/guan-yun/</id>
-        <link href="https://wangyurui.cn/post/guan-yun/">
-        </link>
-        <updated>2021-01-05T15:36:40.000Z</updated>
-        <content type="html"><![CDATA[<p>观云</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眺望]]></title>
-        <id>https://wangyurui.cn/post/tiao-wang/</id>
-        <link href="https://wangyurui.cn/post/tiao-wang/">
-        </link>
-        <updated>2021-01-05T15:35:52.000Z</updated>
-        <content type="html"><![CDATA[<p>眺望</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mexico]]></title>
-        <id>https://wangyurui.cn/post/mexico/</id>
-        <link href="https://wangyurui.cn/post/mexico/">
-        </link>
-        <updated>2021-01-05T15:34:36.000Z</updated>
-        <content type="html"><![CDATA[<p>Mexico</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海]]></title>
-        <id>https://wangyurui.cn/post/shang-hai/</id>
-        <link href="https://wangyurui.cn/post/shang-hai/">
-        </link>
-        <updated>2021-01-05T15:34:08.000Z</updated>
-        <content type="html"><![CDATA[<p>上海</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非物质/再物质：计算机艺术简史]]></title>
-        <id>https://wangyurui.cn/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/</id>
-        <link href="https://wangyurui.cn/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/">
-        </link>
-        <updated>2021-01-05T15:33:32.000Z</updated>
-        <content type="html"><![CDATA[<p>非物质/再物质：计算机艺术简史</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新海诚画展]]></title>
-        <id>https://wangyurui.cn/post/xin-hai-cheng-hua-zhan/</id>
-        <link href="https://wangyurui.cn/post/xin-hai-cheng-hua-zhan/">
-        </link>
-        <updated>2021-01-05T15:33:02.000Z</updated>
-        <content type="html"><![CDATA[<p>新海诚画展</p>
 ]]></content>
     </entry>
 </feed>
