@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyurui.cn</id>
     <title>王誉睿的时光相册</title>
-    <updated>2021-01-14T12:31:03.436Z</updated>
+    <updated>2021-01-14T12:37:27.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangyurui.cn"/>
     <link rel="self" href="https://wangyurui.cn/atom.xml"/>
@@ -10,6 +10,78 @@
     <logo>https://wangyurui.cn/images/avatar.png</logo>
     <icon>https://wangyurui.cn/favicon.ico</icon>
     <rights>All rights reserved 2021, 王誉睿的时光相册</rights>
+    <entry>
+        <title type="html"><![CDATA[上海行—美景]]></title>
+        <id>https://wangyurui.cn/post/shang-hai-xing-mei-jing/</id>
+        <link href="https://wangyurui.cn/post/shang-hai-xing-mei-jing/">
+        </link>
+        <updated>2021-01-14T12:37:07.000Z</updated>
+        <content type="html"><![CDATA[<p>上海行—美景</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观云]]></title>
+        <id>https://wangyurui.cn/post/guan-yun/</id>
+        <link href="https://wangyurui.cn/post/guan-yun/">
+        </link>
+        <updated>2021-01-14T12:36:25.000Z</updated>
+        <content type="html"><![CDATA[<p>观云</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新海诚画展]]></title>
+        <id>https://wangyurui.cn/post/xin-hai-cheng-hua-zhan/</id>
+        <link href="https://wangyurui.cn/post/xin-hai-cheng-hua-zhan/">
+        </link>
+        <updated>2021-01-14T12:36:01.000Z</updated>
+        <content type="html"><![CDATA[<p>新海诚画展</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七夕-3年前的我们]]></title>
+        <id>https://wangyurui.cn/post/qi-xi-3-nian-qian-de-wo-men/</id>
+        <link href="https://wangyurui.cn/post/qi-xi-3-nian-qian-de-wo-men/">
+        </link>
+        <updated>2021-01-14T12:35:30.000Z</updated>
+        <content type="html"><![CDATA[<p>七夕-3年前的我们</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[姑苏观雨]]></title>
+        <id>https://wangyurui.cn/post/gu-su-guan-yu/</id>
+        <link href="https://wangyurui.cn/post/gu-su-guan-yu/">
+        </link>
+        <updated>2021-01-14T12:34:56.000Z</updated>
+        <content type="html"><![CDATA[<p>姑苏观雨</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mexico]]></title>
+        <id>https://wangyurui.cn/post/mexico/</id>
+        <link href="https://wangyurui.cn/post/mexico/">
+        </link>
+        <updated>2021-01-14T12:34:22.000Z</updated>
+        <content type="html"><![CDATA[<p>Mexico</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[济南——一条]]></title>
+        <id>https://wangyurui.cn/post/ji-nan-yi-tiao/</id>
+        <link href="https://wangyurui.cn/post/ji-nan-yi-tiao/">
+        </link>
+        <updated>2021-01-14T12:33:42.000Z</updated>
+        <content type="html"><![CDATA[<p>济南——一条</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[非物质/再物质：计算机艺术简史]]></title>
+        <id>https://wangyurui.cn/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/</id>
+        <link href="https://wangyurui.cn/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/">
+        </link>
+        <updated>2021-01-14T12:32:58.000Z</updated>
+        <content type="html"><![CDATA[<p>非物质/再物质：计算机艺术简史</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读书]]></title>
         <id>https://wangyurui.cn/post/du-shu/</id>
